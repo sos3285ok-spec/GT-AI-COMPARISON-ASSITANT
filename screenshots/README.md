@@ -4,4 +4,3 @@
 
 - main-interface.png: 메인 인터페이스
 - comparison-view.png: AI 응답 비교 화면  
-- dashboard.png: 개인화 대시보드
