@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# API Keys and secrets  
+*.key
+config.json
+saved_keys.json
+/tmp/
+
+# Chat history
+chat_history.json
