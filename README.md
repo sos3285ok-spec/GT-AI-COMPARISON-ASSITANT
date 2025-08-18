@@ -173,3 +173,11 @@ Issues: GitHub Issues
 
 ⭐ If you find this project useful, please give it a star! ⭐
 Built with ❤️ for the AI community
+
+## 📸 **Screenshots**
+
+### Main Interface
+![Main Interface](screenshots/main-interface.png)
+
+### AI Comparison View  
+![Comparison View](screenshots/comparison-view.png)
