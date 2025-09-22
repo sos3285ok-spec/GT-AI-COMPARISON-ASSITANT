@@ -1,4 +1,4 @@
-# 🤖 AI Comparison Assistant
+# AI Comparison Assistant
 
 **Intelligent Multi-AI Comparison Platform with Personalization**
 
